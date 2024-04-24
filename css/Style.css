@@ -1,0 +1,58 @@
+*{box-sizing: border-box}
+body{
+    border: 10px solid brown;
+    margin: 0px; 
+    font-family:cursive;
+    text-align: center;
+}
+header, nav, 
+section, aside, footer {
+    border: 10px solid 
+    brown;
+    padding: 20px
+} 
+header{
+    border: 1px solid 
+    black;
+    width: 100%;
+    text-align: center;
+    background color:coral;
+}
+nav{
+    width: 20%;
+    float: left;
+    height: 400px;
+    background-color:cornsilk;
+}
+section{
+    width: 40%;
+    float: left;
+    height: 400px;
+    background-color:blanchedalmond;
+}
+aside{
+    width: 30%;
+    float: left;
+    height: 400px;
+    background-color:bisque;
+}
+footer{
+    width: 100%;
+    clear: left;
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin:auto;
+}
+tr, th, td{
+    border: 1px solid
+    brown;
+}
+.logo{
+    width: 150px;
+}
+iframe{
+    width: 400px;
+    height: 370px;
+}
